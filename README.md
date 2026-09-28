@@ -21,7 +21,7 @@ Sistem Informasi Administrasi RW Digitalisasi untuk membantu pengelolaan data wa
 - MySQL
 - Blade
 - Tailwind CSS
-- JavaScript
+- Mysql
 
 ## Instalasi
 
@@ -30,3 +30,8 @@ Clone repository:
 ```bash
 git [text](https://github.com/Lerigo12/rw_digitalisasi.git)
 cd rw-digitalisasi
+php artisan migrate
+php artisan migrate:status
+php artisan serve
+npm install
+npm run dev

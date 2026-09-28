@@ -8,7 +8,7 @@ Sistem Informasi Administrasi RW Digitalisasi untuk membantu pengelolaan data wa
 - Data warga dan kartu keluarga
 - Surat menyurat
 - Pengumuman
-- Kegiatan dan QR absensi
+- Kegiatan 
 - Keuangan dan iuran
 - Inventaris RW
 - Dashboard administrasi

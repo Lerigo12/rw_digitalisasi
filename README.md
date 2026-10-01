@@ -28,7 +28,7 @@ Sistem Informasi Administrasi RW Digitalisasi untuk membantu pengelolaan data wa
 Clone repository:
 
 ```bash
-git [text](https://github.com/Lerigo12/rw_digitalisasi.git)
+git clone (https://github.com/Lerigo12/rw_digitalisasi.git)
 cd rw-digitalisasi
 php artisan migrate
 php artisan migrate:status
